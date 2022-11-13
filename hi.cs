@@ -1,4 +1,2 @@
 test file
-addde line1 from branch 1
-line2 from branch 1
-line3 from branch 1
+first line from branch2
